@@ -29,7 +29,7 @@ Have fun, and hopefully you'll learn something new today! Good luck! 💪
 - Question 7: [`PerformanceNavigationTiming`](#7-put-the-performancenavigationtimings-in-the-right-order)
 - Question 8: [Cache Directives](#8-match-the-caching-directives-to-their-definitions)
 - Question 9: [Garbage Collection](#9-what-statements-are-true-about-this-code-block)
-- Question 10: [Animation Cost](10-when-animating-the-following-properties-which-have-the-correctly-listed-rendering-costs)
+- Question 10: [Animation Cost](#10-when-animating-the-following-properties-which-have-the-correctly-listed-rendering-costs)
 - Question 11: [Event Propagation](#11-what-gets-logged-when-clicking-button)
 - Question 12: [CSS Specificity](#12-order-the-css-selectors-by-ascending-specificity)
 - Question 13: [`WeakMap`](#13-what-statements-are-true)
