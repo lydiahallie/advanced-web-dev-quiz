@@ -948,7 +948,7 @@ Further reading:
  <br />
  
  Answer:
- - [**Watch Answer & Explanation**](https://frontendmasters.com/courses/web-dev-quiz/q28-event-loop/)
+ - [**Watch Answer & Explanation**](https://frontendmasters.com/courses/web-dev-quiz/q29-http-1-2-3/)
  
 Further reading: 
  - https://www.section.io/engineering-education/http3-vs-http2/
@@ -993,7 +993,7 @@ objB.baz();
  <br />
  
  Answer:
- - [**Watch Answer & Explanation**](https://frontendmasters.com/courses/web-dev-quiz/q28-event-loop/)
+ - [**Watch Answer & Explanation**](https://frontendmasters.com/courses/web-dev-quiz/q30-invoking-object-methods-scope/)
  
 Further reading: 
  - https://tc39.es/ecma262/#sec-function-environment-records-getthisbinding
